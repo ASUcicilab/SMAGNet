@@ -1,16 +1,16 @@
 # SMAGNet
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-This an official Pytorch implementation of our paper **"A Spatially Masked Adaptive Gated Network for Multimodal Post-Flood Water Extent Mapping using SAR and Incomplete Multispectral Data"**. The specific details of the framework are as follows.
+This an official Pytorch implementation of our paper **"A Spatially Masked Adaptive Gated Network for Multimodal Post-Flood Water Extent Mapping using SAR and Incomplete Multispectral Data"**. The specific details of the proposed model are as follows.
 
-**Abstract:** We propose SMAGNet, a multimodal deep learning framework for post-flood water extent mapping that adaptively fuses SAR with incomplete MSI data. Addressing the challenge of missing optical imagery due to limited temporal resolution and coregistration issues, SMAGNet achieves state-of-the-art performance in terms of IoU with a score of 86.47% on the C2S-MS Floods dataset. Furthermore, it demonstrates strong robustness by maintaining high accuracy even when MSI data is completely unavailable, which makes it highly practical for real-world disaster response.
+**Abstract:** We propose SMAGNet, a multimodal deep learning model for post-flood water extent mapping that adaptively fuses SAR with incomplete MSI data. Addressing the challenge of missing pixels in optical imagery due to limited temporal resolution and coregistration process, SMAGNet achieves state-of-the-art performance in terms of IoU with a score of 86.47% on the C2S-MS Floods dataset. Furthermore, it demonstrates strong robustness by maintaining high accuracy even when MSI data is completely unavailable, which makes it highly practical for real-world disaster response.
 
 <p align="center">
   <img src="assets/fig2.png" width="800">
 </p>
 
 ## 📢 News
-* **[2025.12.11]** Source code and trained models released.
+* **2025.12.11**: Source code and trained models released.
 
 ## ⚙️ Requirements
 
@@ -26,7 +26,7 @@ conda activate smagnet
 
 ## 💾 Datasets
 
-### ⭐ Cloud to Street - Microsoft Flood Dataset 
+### ⭐ Cloud to Street - Microsoft (C2S-MS) Floods Dataset 
 - Download: [https://registry.opendata.aws/c2smsfloods/](https://registry.opendata.aws/c2smsfloods/)
 
 ## 🤖 Trained Models
