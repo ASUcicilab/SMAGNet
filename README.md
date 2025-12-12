@@ -10,7 +10,7 @@ This an official Pytorch implementation of our paper **"A Spatially Masked Adapt
 </p>
 
 ## 📢 News
-* **2025.12.11**: Source code and trained models released.
+* **2025.12.11**: Source code and trained model checkpoints released.
 
 ## ⚙️ Requirements
 
