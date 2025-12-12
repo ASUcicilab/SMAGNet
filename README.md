@@ -28,6 +28,7 @@ conda activate smagnet
 
 ### ⭐ Cloud to Street - Microsoft (C2S-MS) Floods Dataset 
 - Download: [https://registry.opendata.aws/c2smsfloods/](https://registry.opendata.aws/c2smsfloods/)
+- After downloading the dataset, matching Sentinel-1 and Sentinel-2 patches using metadata, along with preprocessing, is required.
 
 ## 🤖 Trained Models
 
