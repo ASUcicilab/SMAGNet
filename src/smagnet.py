@@ -1,12 +1,5 @@
 # smagnet.py
 
-import torch 
-import torch.nn as nn
-
-from typing import Optional, Union, List
-import segmentation_models_pytorch as smp
-from segmentation_models_pytorch.encoders import get_encoder
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
