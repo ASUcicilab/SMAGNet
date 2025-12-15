@@ -37,7 +37,7 @@ We provide the trained model for quick reproduction. [download](https://drive.go
 Qualitative examples using these trained models are presented in `examples.ipynb`.
 
 ## 📊 Results
-Comparison with state-of-the-art methods on the C2SMSFloods dataset:
+Comparison with state-of-the-art methods on the C2S-MS Floods dataset:
 
 | Model | IoU (%) | Precision (%) | Recall (%) | OA (%) |
 | :--- | :---: | :---: | :---: | :---: |
