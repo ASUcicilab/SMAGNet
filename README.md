@@ -10,8 +10,8 @@ This an official Pytorch implementation of our paper **"A Spatially Masked Adapt
 </p>
 
 ## 📢 News
-* **2025.12.11**: Source code and trained model checkpoints were released.
 * **2025.12.24**: Our paper has been accepted for publication in the ISPRS Journal of Photogrammetry and Remote Sensing!
+* **2025.12.11**: Source code and trained model checkpoints were released.
 
 ## ⚙️ Requirements
 
