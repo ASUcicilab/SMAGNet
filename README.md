@@ -58,4 +58,16 @@ Comparison with state-of-the-art methods on the C2S-MS Floods dataset:
 | SMAGNet (Ours) | **86.47 (±0.61)** | 93.05 (±0.76) | **92.45 (±0.83)** | **97.73 (±0.11)** |
 
 ## 📚 Citation
-Will be updated
+If you find this work useful, please consider citing the following paper:
+
+```bibtex
+@article{lee2026spatially,
+  title={A Spatially Masked Adaptive Gated Network for multimodal post-flood water extent mapping using SAR and incomplete multispectral data},
+  author={Lee, Hyunho and Li, Wenwen},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={232},
+  pages={492--508},
+  year={2026},
+  publisher={Elsevier}
+}
+```
